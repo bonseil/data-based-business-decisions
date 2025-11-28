@@ -24,6 +24,7 @@ As the company's data analyst, I have to prioritize these hypotheses, launch an 
   <li><i>Confidence</i> — confidence in the hypothesis, on a scale of one to ten</li>
   <li><i>Effort</i> — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.</li>
 </ul>
+
 ### *orders_us.csv*
 <ul>
   <li><i>transactionId</i> — order identifier </li>
@@ -32,6 +33,7 @@ As the company's data analyst, I have to prioritize these hypotheses, launch an 
   <li><i>revenue</i> — from the order</li>
   <li><i>group</i> — the A/B test group that the user belongs to.</li>
 </ul>
+
 ### *visits_us.csv*
 <ul>
   <li><i>date</i> — date </li>
